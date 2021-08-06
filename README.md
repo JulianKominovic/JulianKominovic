@@ -1,12 +1,36 @@
-<h1 align="center">Hi 👋, I'm Julian Ezequiel Kominovic</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
-
-<a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/70329467/128532785-fbfe8c69-5faa-40db-8de8-5d7c8943721a.png" alt="git" width="100%" height="100"/> </a>
-
-- 🌱 I’m currently learning **React.js and several libraries related to React**
-
-- 👨‍💻 All of my projects are available at [https://juliankominovic.github.io/portfolio/](https://juliankominovic.github.io/portfolio/)
+<h1 align="center">Julian Ezequiel Kominovic</h1>
+  <a href="https://git-scm.com/" target="_blank"> <header><img src="https://user-images.githubusercontent.com/70329467/128532785-fbfe8c69-5faa-40db-8de8-5d7c8943721a.png" alt="Julian Kominovic banner" width="100%" height="auto"  style="border-radius:50%"/> </header></a>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+
+<a href="https://github.com/JulianKominovic" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliankominovic&langs_count=8" alt="Julian Kominovic top languages" height="190em" width="auto"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=juliankominovic&show_icons=true&theme=vision-friendly-dark" alt="Julian Kominovic top languages" height="190em" width="auto"/></a>
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![C](https://img.shields.io/badge/-C-FFB740?style=for-the-badge&logo=C&labelColor=000)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-FFB740?style=for-the-badge&logo=HTML5&labelColor=000)
+  ![CSS](https://img.shields.io/badge/-CSS-FFB740?style=for-the-badge&logo=Css3&labelColor=000)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-FFB740?style=for-the-badge&logo=Javascript&labelColor=000)
+  ![React](https://img.shields.io/badge/-React-FFB740?style=for-the-badge&logo=React&labelColor=000)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-FFB740?style=for-the-badge&logo=Git&labelColor=000)
+  ![GitHub](https://img.shields.io/badge/-GitHub-FFB740?style=for-the-badge&logo=Github&labelColor=000)
+  ![Markdown](https://img.shields.io/badge/-Markdown-FFB740?style=for-the-badge&logo=Markdown&labelColor=000)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFB740?style=for-the-badge&logo=visual-studio-code&labelColor=000)
+- 🖥 &nbsp;
+  ![Figma](https://img.shields.io/badge/-Figma-FFB740?style=for-the-badge&logo=figma&labelColor=000)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-FFB740?style=for-the-badge&logo=adobe-photoshop&labelColor=000)
+ 
+
+<a href="https://juliankominovic.github.io/portfolio"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-juliankominovic.github.io/portfolio-FFB740?style=flat-square&logo=google-chrome&labelColor=000"></a>
+<br/>
+<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Julián%20Ezequiel%20Kominovic-FFB740?style=flat-square&logo=linkedin&labelColor=000"></a>
+<br/>
+<a href="mailto:juliankominovic@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-juliankominovic@gmail.com-FFB740?style=flat-square&logo=gmail&labelColor=000"></a>
+
+
