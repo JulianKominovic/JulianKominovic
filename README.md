@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Julian Ezequiel Kominovic</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100%" height="100"/> </a>
+
 - 🌱 I’m currently learning **React.js and several libraries related to React**
 
 - 👨‍💻 All of my projects are available at [https://juliankominovic.github.io/portfolio/](https://juliankominovic.github.io/portfolio/)
