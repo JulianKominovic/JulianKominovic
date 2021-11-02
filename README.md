@@ -26,7 +26,7 @@
 
  
 <h2>📨 &nbsp;Social</h2>
-<a href="https://juliankominovic.github.io/portfolio"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-juliankominovic.github.io/portfolio-FFB740?style=flat-square&logo=google-chrome&labelColor=000"></a>
+<a href="https://jkportfolio.web.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-https://jkportfolio.web.app/-FFB740?style=flat-square&logo=google-chrome&labelColor=000"></a>
 <br/>
 <a href="https://www.linkedin.com/in/jkominovic/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Julián%20Ezequiel%20Kominovic-FFB740?style=flat-square&logo=linkedin&labelColor=000"></a>
 <br/>
