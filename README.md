@@ -12,7 +12,12 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-FFB740?style=for-the-badge&logo=HTML5&labelColor=000)
   ![CSS](https://img.shields.io/badge/-CSS-FFB740?style=for-the-badge&logo=Css3&labelColor=000)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-FFB740?style=for-the-badge&logo=Javascript&labelColor=000)
-  ![React](https://img.shields.io/badge/-React-FFB740?style=for-the-badge&logo=React&labelColor=000)
+  ![Typescript](https://img.shields.io/badge/-Typescript-FFB740?style=for-the-badge&logo=Typescript&labelColor=000)
+
+  
+ ### Frameworks
+   ![React](https://img.shields.io/badge/-React-FFB740?style=for-the-badge&logo=React&labelColor=000)
+   ![Gatsby](https://img.shields.io/badge/-Gatsby-FFB740?style=for-the-badge&logo=Gatsby&labelColor=000)
   
 ### Working Tools
   ![Git](https://img.shields.io/badge/-Git-FFB740?style=for-the-badge&logo=Git&labelColor=000)
