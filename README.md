@@ -38,4 +38,8 @@
 <a href="mailto:juliankominovic@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-juliankominovic@gmail.com-FFB740?style=flat-square&logo=gmail&labelColor=000"></a>
 
 
+<h2> 🛠 &nbsp;Working on 🔨</h2>
 
+- Markdown editor.
+- Dev toolkit (all in one toolkit, for everyday dev needs).
+- Central panel (where I could save notes, todos, ideas, projects, blogs, project manager, documentation, etc...).
