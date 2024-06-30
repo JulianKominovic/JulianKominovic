@@ -3,7 +3,7 @@ Frontend developer with almost 3 years of experience in fintech sector. I enjoy 
 
 ## Currently hacking on
 ### Bentisca
-![image](https://github.com/JulianKominovic/JulianKominovic/assets/70329467/c61a69dc-92eb-4be5-8da4-b63af8d8078f)
+![Bentisca showcase](https://github.com/JulianKominovic/JulianKominovic/assets/70329467/54905d7b-a8d4-4a02-b2c9-c658e7962f75)
 
 ### Live Feedback
 An open source, free, run-everywhere Vercel Preview's comments.
