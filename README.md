@@ -11,10 +11,10 @@ An open source, free, run-everywhere Vercel Preview's comments.
 
 
 ## Tech stack
-[![React](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siReact&subtitle=Frontend&size=tall)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siReact&subtitle=Frontend&size=square)
-[![Typescript](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siTypescript&subtitle=Frontend&size=tall)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siTypescript&subtitle=Frontend&size=square)
-[![Nodejs](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sinodedotjs&subtitle=Backend&size=tall)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sinodedotjs&subtitle=Backend&size=square)
-[![Nextjs](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sinextdotjs&subtitle=Backend&size=tall)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sinextdotjs&subtitle=Backend&size=square)
+[![React](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siReact&subtitle=Frontend&size=wide)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siReact&subtitle=Frontend&size=square)
+[![Typescript](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siTypescript&subtitle=Frontend&size=wide)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siTypescript&subtitle=Frontend&size=square)
+[![Nodejs](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sinodedotjs&subtitle=Backend&size=wide)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sinodedotjs&subtitle=Backend&size=square)
+[![Nextjs](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sinextdotjs&subtitle=Backend&size=wide)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sinextdotjs&subtitle=Backend&size=square)
 
 ## Social
 [![](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FJulianKominovic&size=square)](https://github.com/JulianKominovic)
