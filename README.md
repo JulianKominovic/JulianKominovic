@@ -10,6 +10,12 @@ An open source, free, run-everywhere Vercel Preview's comments.
 ![feature-element-select](https://github.com/JulianKominovic/JulianKominovic/assets/70329467/85ef69df-bcb3-40e0-98a2-ab1a28e0f547)
 
 
+## Tech stack
+[![React](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siReact&subtitle=Frontend&size=tall)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siReact&subtitle=Frontend&size=square)
+[![Typescript](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siTypescript&subtitle=Frontend&size=tall)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siTypescript&subtitle=Frontend&size=square)
+[![Nodejs](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sinodedotjs&subtitle=Backend&size=tall)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sinodedotjs&subtitle=Backend&size=square)
+[![Nextjs](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sinextdotjs&subtitle=Backend&size=tall)](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sinextdotjs&subtitle=Backend&size=square)
+
 ## Social
 [![](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FJulianKominovic&size=square)](https://github.com/JulianKominovic)
 [![](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitter.com%2Fjuliankominovic&size=square)](https://twitter.com/juliankominovic)
