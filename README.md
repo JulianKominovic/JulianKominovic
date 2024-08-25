@@ -8,9 +8,9 @@ Frontend developer with almost 3 years of experience in fintech sector. I enjoy 
 ### Bentisca
 [![Bentisca showcase](https://github.com/JulianKominovic/JulianKominovic/assets/70329467/54905d7b-a8d4-4a02-b2c9-c658e7962f75)](https://github.com/JulianKominovic/bentisca)
 
+### Wallpis
+![179shots_so](https://github.com/user-attachments/assets/784e8d63-3b9c-4564-ae35-12336d2ecf72)
 
-### Mechy keyboard
-<img width="912" alt="Screenshot 2024-07-19 at 7 41 19 PM" src="https://github.com/user-attachments/assets/fd6f9ee6-2022-4670-bfd1-a25a684f9fdf">
 
 ### Live Feedback
 An open source, free, run-everywhere Vercel Preview's comments.
