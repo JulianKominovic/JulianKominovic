@@ -1,5 +1,5 @@
 # Hey! I'm Julian 🤙
-Frontend developer with almost 3 years of experience in fintech sector. I enjoy creating development tools to make developers' life easier.
+Frontend developer with more than 3 years of experience in fintech sector. I enjoy creating development tools to make developers' life easier.
 
 ![](https://komarev.com/ghpvc/?username=JulianKominovic&style=flat&abbreviated=true)
 
